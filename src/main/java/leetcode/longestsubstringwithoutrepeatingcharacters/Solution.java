@@ -1,10 +1,10 @@
 package leetcode.longestsubstringwithoutrepeatingcharacters;
 
-
-import com.fasterxml.jackson.databind.ObjectMapper;
-
 import java.util.HashMap;
 
+/**
+ * https://leetcode.com/problems/longest-substring-without-repeating-characters/ 
+ */
 class Solution {
     public static void main(String args[])
     {
